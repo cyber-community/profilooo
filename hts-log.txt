@@ -1,0 +1,13 @@
+HTTrack3.49-2 launched on Fri, 24 Sep 2021 21:26:16 at https://tarunks.ml/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -O /storage/emulated/0/HTTrack/Websites/profilo -A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 https://tarunks.ml/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:26:27	Error: 	"Not Found" (404) at link https://tarunks.ml/favicon.ico (from https://tarunks.ml/)
+21:26:29	Warning: 	Link https://tarunks.ml/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 11 links scanned, 9 files written (1580811 bytes overall) [810547 bytes received at 62349 bytes/sec], 1192024 bytes transferred using HTTP compression in 9 files, ratio 33%, 1.8 requests per connection
+(1 errors, 1 warnings, 0 messages)
